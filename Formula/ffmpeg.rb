@@ -43,7 +43,7 @@ class Ffmpeg < Formula
   depends_on "libvorbis"
   depends_on "libvpx"
   depends_on "opus"
-  depends_on "sdl2"
+  # depends_on "sdl2"
   depends_on "snappy"
   depends_on "theora"
   depends_on "x264"
